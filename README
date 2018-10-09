@@ -10,6 +10,8 @@ is CC, you can read it in README-cp.txt)
 
 Magnetic Balls V2 by fdecomite: http://www.flickr.com/photos/fdecomite/2926556794/
 
+Dirk was here.
+
 To build:
 
 rst2pdf rst-cheatsheet.rst -s cheatsheet
